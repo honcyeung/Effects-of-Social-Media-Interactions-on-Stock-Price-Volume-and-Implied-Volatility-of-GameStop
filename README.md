@@ -1,4 +1,4 @@
-# Effects of Social Media Interactions on Stock Price Volume and Implied Volatility of GameStop
+# Effects of Social Media Interactions on Stock Price, Volume, and Implied Volatility of GameStop
 
 Social media has many functions of previous communication tools and business so that users can perform various activities with one account, from texting, networking, and media sharing to advertisements and financial advice. It becomes the communities of information, and opinion and idea exchanges on specific domains, particularly the stock market. 
 
